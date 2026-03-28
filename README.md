@@ -119,8 +119,6 @@ public:
 
 `Operating Systems` · `DBMS` · `Computer Networks` · `Algorithms I & II` · `Compilers` · `Computer Organization & Architecture` · `Software Engineering` · `Information Security` · `Cryptography` · `Machine Learning` · `Systems Programming` · `Information Retrieval`
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
