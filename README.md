@@ -21,10 +21,11 @@
 ```cpp
 class AjayDhakar {
 public:
-    string college   = "IIT Kharagpur (Dual Degree B.Tech + M.Tech, CSE)";
-    string role      = "Incoming SWE @ Uber (PPO)";
-    float  cgpa      = 7.95;
-    int    gradYear  = 2026;
+    string college    = "IIT Kharagpur";
+    string department = "Computer Science and Engineering"
+    string highlight  = "Incoming SWE @ Uber (PPO)";
+    float  cgpa       = 7.95;
+    int    gradYear   = 2026;
 
     vector<string> interests = {
         "Backend Engineering",
@@ -32,8 +33,6 @@ public:
         "Scalable Distributed Systems",
         "Competitive Programming"
     };
-
-    string currentlyLearning() { return "Building production-grade systems at scale"; }
 };
 ```
 
@@ -41,32 +40,32 @@ public:
 
 ## 🚀 Experience
 
-### 🟡 Software Developer Intern — **Uber** *(May 2025 – Jul 2025)*
-> *Team Piper — Data Workflow Platform (Uber-scale Airflow)*
+### Software Developer Intern — **Uber** *(May 2025 – Jul 2025)*
+> *Team Piper — Data Workflow Platform*
 
-- 🔍 Designed a scalable framework to detect issues across **200K+ existing pipelines** and proactively surface them to users
-- 🐛 Debugged and resolved **3 production bugs** with detailed Root Cause Analysis (RCA)
-- 📊 Streamlined migration of **timer → histogram-type** metrics on M3 with Grafana dashboard updates
-- 📝 Delivered **9 production diffs**, authored EngWiki, and documented all key design decisions
+- Designed a scalable framework to detect issues across **200K+ existing pipelines** and proactively surface them to users
+- Debugged and resolved **3 production bugs** with detailed Root Cause Analysis (RCA)
+- Streamlined migration of **timer → histogram-type** metrics on M3 with Grafana dashboard updates
+- Delivered **9 production diffs**, authored EngWiki, and documented all key design decisions
 
-### 🔬 Software Developer Intern — **Computer Vision Lab, IIT Kharagpur** *(May 2023 – Jun 2024)*
+### Software Developer Intern — **Computer Vision Lab, IIT Kharagpur** *(May 2023 – Jun 2024)*
 - Built a **C++ license generator** for Linux systems using hardware fingerprinting
 - Implemented a **neural network in C++ from scratch** (weights from MATLAB) achieving 85% weather prediction accuracy
 - Integrated C++ backend with Java Swing GUI using **Java Native Interface (JNI)**
 
-### 🌐 Project Intern — **KalpanAI** *(Aug 2024 – Sep 2024)*
+### Project Intern — **KalpanAI** *(Aug 2024 – Sep 2024)*
 - Developed a full-stack web app for a marble products business — **50+ products**, **500 monthly visitors**
 - Built admin panel with dynamic updates to **14 sections** using React.js + Express.js + MongoDB
 - Deployed on **Hostinger VPS** with custom domain and HTTPS
 
 ---
 
-## 🏗️ Projects
+## Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧩 **Rubik's Cube Solver** | Solves 13-move scramble in 10s using Korf's IDA\* | C++, DFS/BFS/IDDFS/IDA\* |
-| 🐚 **Custom Linux Shell** | Feature-rich shell with piping, redirection, wildcards, history | C++, System Calls |
+| **Rubik's Cube Solver** | Solves 13-move scramble in 10s using Korf's IDA\* | C++, DFS/BFS/IDDFS/IDA\* |
+| **Custom Linux Shell** | Feature-rich shell with piping, redirection, wildcards, history | C++, System Calls |
 
 ---
 
