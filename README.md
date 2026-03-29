@@ -60,7 +60,7 @@ public:
 
 ---
 
-## Projects
+## 🏗️ Projects
 
 | Project | Description | Tech |
 |---|---|---|
